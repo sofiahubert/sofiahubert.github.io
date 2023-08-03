@@ -1,0 +1,63 @@
+.titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh; /* Ajusta la altura según tus necesidades */
+  }
+  
+  .titulo h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh; /* Ajusta la altura según tus necesidades */
+    background-color: white; /* Agrega el color de fondo blanco */
+    width: 100%;
+  }
+ * { text-align: center
+}
+
+    img {
+        border: 10px solid rgb(214, 147, 71);
+        padding: 2px;
+        width: 12%;
+        margin-bottom: 5px;
+        }
+      h3 {
+        margin-left: 80px; 
+        margin-right: 80px;
+
+      }
+      #Libro {
+        border: 5px solid rgb(236, 8, 8);
+        padding: 2px;
+        width: 12%;
+        margin-bottom: 5px;
+        margin-right: 40px
+        }
+        #Serie {
+            border: 5px solid rgb(26, 65, 241);
+            padding: 2px;
+            width: 12%;
+            margin-bottom: 5px;
+            margin-right: 40px
+        }
+        #Deporte {
+            border: 5px solid rgb(49, 184, 67);
+            padding: 2px;
+            width: 25%;
+            margin-bottom: 5px;
+            margin-right: 40px
+        }
+        .clase-de-fondo {
+            background-image:url(fondo.png);
+            background-size: cover;
+            background-position: center;
+          }
+        
+        .logo {
+            margin-left: 0;
+            border: 0px ;
+            padding: 0px;
+            width: 25%;
+        margin-bottom: 5px;
+        }
